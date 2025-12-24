@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Baaki ka CSS niche */
+.hero-pattern {
+  background-color: #111827;
+  background-image: radial-gradient(#374151 1px, transparent 1px);
+  background-size: 30px 30px;
+}
+/* ... etc ... */
